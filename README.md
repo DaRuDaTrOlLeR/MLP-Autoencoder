@@ -1,2 +1,2 @@
 School Project -> my first MLP Autoencoder.
-NOTE we ran models on a MNIST dataset.
+NOTE: The model was trained on an MNIST dataset.
